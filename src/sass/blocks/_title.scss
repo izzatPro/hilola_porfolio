@@ -3,18 +3,18 @@
     font-size: 36px;
     line-height: 60px;
     &_fz14{
-        font-size: 14px;
-        line-height: 21px;
+        font-size: 14px !important;
+        line-height: 21px !important;
     }
     &_fz16{
-        font-size: 16px;
-        line-height: 24px;
+        font-size: 16px !important;
+        line-height: 24px !important;
     }
     &_fz20{
-        font-size: 20px;
+        font-size: 20px !important;
     }
     &_fz48{
-        font-size: 48px;
+        font-size: 48px !important;
     }
     &__section-title{
             position: relative;
